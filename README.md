@@ -54,5 +54,3 @@ Ensure you have these libraries installed before running the script.
 - Connection details and credentials are provided in the script.
 - Ensure a VPN connection is established for proper functionality.
 - Copy functionality is enabled for the displayed information in the text box.
-  
-Feel free to modify and extend the script based on your specific needs.
